@@ -1,11 +1,11 @@
 /* Add all your styles here */
 
 .hans{
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   margin-bottom: 20px;
-  border: 5px solid white;
+  border: 5px solid black;
 }
 
   
