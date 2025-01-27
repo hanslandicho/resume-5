@@ -1,0 +1,180 @@
+/* Add all your styles here */
+
+.hans{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 5px solid white;
+}
+
+  
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.header h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Section Styles */
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section li {
+  margin-bottom: 10px;
+}
+
+.section p {
+  margin-bottom: 20px;
+}
+
+/* Table Styles */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+/* Contact Information Styles */
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.contact-info ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}
+
+/* Summary Styles */
+
+.summary {
+  margin-bottom: 20px;
+}
+
+.summary p {
+  margin-bottom: 20px;
+}
+
+
+.work-experience {
+  margin-bottom: 20px;
+}
+
+.work-experience h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.work-experience ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.work-experience li {
+  margin-bottom: 10px;
+}
+
+/* Education and Training Styles */
+
+.education-training {
+  margin-bottom: 20px;
+}
+
+.education-training h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.education-training ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.education-training li {
+  margin-bottom: 10px;
+}
+
+
+.certifications-licenses {
+  margin-bottom: 20px;
+}
+
+.certifications-licenses h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.certifications-licenses ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.certifications-licenses li {
+  margin-bottom: 10px;
+}
